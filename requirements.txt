@@ -3,6 +3,7 @@
 # Web
 fastapi==0.110.0
 uvicorn[standard]==0.24.0
+python-multipart==0.0.9
 
 # ML / Audio / Vision
 tensorflow-cpu==2.15.0
